@@ -1,0 +1,8 @@
+proyecto_creditos/
+├── data/ # Datos originales y procesados
+│ └── creditos.csv # Dataset de créditos (200 registros)
+├── notebooks/
+│ └── Clasificador_KNN.ipynb # Notebook con el análisis completo
+├── .gitignore # Archivos a ignorar
+├── README.md # Este archivo
+└── requirements.txt # Dependencias
