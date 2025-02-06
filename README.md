@@ -66,4 +66,6 @@ Ejemplo: **Cliente con 35 años y un crédito de $350,000**
 git clone https://github.com/tuusuario/knn-morosidad.git
 cd knn-morosidad
 
+pip install -r requirements.txt
+
 
